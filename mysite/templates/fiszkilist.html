@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiszki - {{ osoba }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="cyber-container">
+    <div class="cyber-header">
+      <h1 class="cyber-title">📚 <span class="neon-text">{{ osoba }}</span></h1>
+      <div class="cyber-line"></div>
+    </div>
+
+    <!-- Lista działów -->
+    <div id="listaDzialow" class="cyber-section">
+      <p class="cyber-subtitle">Wybierz dział:</p>
+      <div class="cyber-grid">
+        {% for plik in pliki %}
+          <button class="cyber-btn" onclick="wybierzDzial('{{ osoba }}','{{ plik }}')">
+            <span class="btn-text">{{ plik }}</span>
+            <span class="btn-glow"></span>
+          </button>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- Interfejs fiszek -->
+    <div id="fiszkowyInterface" class="hidden cyber-section">
+      <div class="cyber-card">
+        <div class="card-inner" id="cardInner">
+          <div class="card-front">
+            <p id="pytanie" class="card-text">Kliknij "Losuj fiszkę"</p>
+            <div class="card-corner top-left"></div>
+            <div class="card-corner top-right"></div>
+            <div class="card-corner bottom-left"></div>
+            <div class="card-corner bottom-right"></div>
+          </div>
+          <div class="card-back">
+            <p id="odpowiedz" class="card-text"></p>
+            <div class="card-corner top-left"></div>
+            <div class="card-corner top-right"></div>
+            <div class="card-corner bottom-left"></div>
+            <div class="card-corner bottom-right"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cyber-controls">
+        <button class="cyber-action-btn" onclick="pokazOdp()" id="pokazOdpBtn">
+          <span class="btn-text">Pokaż odpowiedź</span>
+          <span class="btn-glow"></span>
+        </button>
+
+        <div class="cyber-rating">
+          <button class="cyber-rating-btn remove" onclick="usun()">0</button>
+          <button class="cyber-rating-btn easy" onclick="ocen(1)">1</button>
+          <button class="cyber-rating-btn medium" onclick="ocen(2)">2</button>
+          <button class="cyber-rating-btn medium" onclick="ocen(3)">3</button>
+          <button class="cyber-rating-btn hard" onclick="ocen(4)">4</button>
+        </div>
+
+        <button class="cyber-action-btn" onclick="losuj()" id="losujBtn">
+            <span class="btn-text">Losuj fiszkę</span>
+            <span class="btn-glow"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+<script>
+let currentId = null;
+let aktualnyPlik = null;
+let aktualnaOsoba = "{{ osoba }}";
+let isAnswerShown = false;
+let isRatingInProgress = false;
+
+function wybierzDzial(osoba, plik) {
+  aktualnyPlik = plik;
+  document.getElementById("listaDzialow").classList.add("hidden");
+  document.getElementById("fiszkowyInterface").classList.remove("hidden");
+  losuj();
+}
+
+function losuj() {
+  // Jeśli trwa odliczanie, nie pozwól na losowanie
+  if (isRatingInProgress) return;
+
+  fetch(`/losuj/${aktualnaOsoba}/${aktualnyPlik}`)
+    .then(res => res.json())
+    .then(data => {
+      currentId = data.id;
+      document.getElementById("pytanie").innerText = data.pytanie;
+      document.getElementById("odpowiedz").innerText = data.odpowiedz;
+
+      // Reset karty do stanu pytania
+      document.getElementById("cardInner").style.transform = "rotateY(0deg)";
+      isAnswerShown = false;
+      document.getElementById("pokazOdpBtn").disabled = false;
+      document.querySelectorAll(".cyber-rating-btn").forEach(btn => {
+        btn.disabled = true;
+        btn.style.opacity = "0.5";
+      });
+    })
+    .catch(error => {
+      console.error('Błąd:', error);
+      document.getElementById("pytanie").innerText = "Błąd podczas ładowania fiszki";
+    });
+}
+
+function pokazOdp() {
+  if (!isAnswerShown && currentId !== null && !isRatingInProgress) {
+    document.getElementById("cardInner").style.transform = "rotateY(180deg)";
+    isAnswerShown = true;
+    document.getElementById("pokazOdpBtn").disabled = true;
+    document.querySelectorAll(".cyber-rating-btn").forEach(btn => {
+      btn.disabled = false;
+      btn.style.opacity = "1";
+    });
+  }
+}
+
+function ocen(val) {
+  if (currentId === null || isRatingInProgress) {
+    return;
+  }
+
+  isRatingInProgress = true;
+
+  // Zablokuj WSZYSTKIE przyciski podczas odliczania
+  document.querySelectorAll(".cyber-rating-btn, .cyber-action-btn").forEach(btn => {
+    btn.disabled = true;
+  });
+
+  // Najpierw obróć kartę z powrotem do pytania
+  document.getElementById("cardInner").style.transform = "rotateY(0deg)";
+
+  // Poczekaj aż animacja obrotu się zakończy (0.6s) i pokaż potwierdzenie
+  setTimeout(() => {
+    showRatingConfirmation(val);
+
+    // Po 1.5 sekundy zmień fiszkę i odblokuj przyciski
+    setTimeout(() => {
+      fetch(`/ocena/${aktualnaOsoba}/${aktualnyPlik}`, {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({id: currentId, ocena: val})
+      }).then(() => {
+        hideRatingConfirmation();
+        isRatingInProgress = false;
+        isAnswerShown = false;
+
+        // Odblokuj przyciski po zakończeniu odliczania
+        document.getElementById("pokazOdpBtn").disabled = false;
+        document.getElementById("losujBtn").disabled = false;
+        document.querySelectorAll(".cyber-rating-btn").forEach(btn => {
+          btn.disabled = true;
+          btn.style.opacity = "0.5";
+        });
+
+        losuj();
+      });
+    }, 800);
+  }, 600); // Czekaj na zakończenie animacji obrotu
+}
+
+function usun() {
+  if (currentId === null || isRatingInProgress) {
+    return;
+  }
+
+  if (confirm("Czy na pewno chcesz usunąć tę fiszkę?")) {
+    isRatingInProgress = true;
+
+    // Zablokuj WSZYSTKIE przyciski podczas odliczania
+    document.querySelectorAll(".cyber-rating-btn, .cyber-action-btn").forEach(btn => {
+      btn.disabled = true;
+    });
+
+    // Najpierw obróć kartę z powrotem do pytania
+    document.getElementById("cardInner").style.transform = "rotateY(0deg)";
+
+    // Poczekaj aż animacja obrotu się zakończy (0.6s) i pokaż potwierdzenie
+    setTimeout(() => {
+      showDeleteConfirmation();
+
+      // Po 1.5 sekundy zmień fiszkę i odblokuj przyciski
+      setTimeout(() => {
+        fetch(`/usun/${aktualnaOsoba}/${aktualnyPlik}`, {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({id: currentId})
+        }).then(() => {
+          hideRatingConfirmation();
+          isRatingInProgress = false;
+          isAnswerShown = false;
+
+          // Odblokuj przyciski po zakończeniu odliczania
+          document.getElementById("pokazOdpBtn").disabled = false;
+          document.getElementById("losujBtn").disabled = false;
+          document.querySelectorAll(".cyber-rating-btn").forEach(btn => {
+            btn.disabled = true;
+            btn.style.opacity = "0.5";
+          });
+
+          losuj();
+        });
+      }, 800);
+    }, 600); // Czekaj na zakończenie animacji obrotu
+  }
+}
+
+function showRatingConfirmation(rating) {
+  const confirmation = document.createElement('div');
+  confirmation.className = 'rating-confirmation';
+  confirmation.innerHTML = `
+    <div class="confirmation-text">Oceniono na: ${rating}</div>
+    <div class="countdown-bar"></div>
+  `;
+  document.body.appendChild(confirmation);
+}
+
+function showDeleteConfirmation() {
+  const confirmation = document.createElement('div');
+  confirmation.className = 'rating-confirmation';
+  confirmation.style.borderColor = 'var(--neon-purple)';
+  confirmation.style.boxShadow = '0 0 30px var(--neon-purple)';
+  confirmation.innerHTML = `
+    <div class="confirmation-text">🗑️ Fiszka usunięta</div>
+    <div class="countdown-bar" style="background: var(--neon-purple);"></div>
+  `;
+  document.body.appendChild(confirmation);
+}
+
+function hideRatingConfirmation() {
+  const confirmation = document.querySelector('.rating-confirmation');
+  if (confirmation) {
+    confirmation.remove();
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,153 @@
+lekkoatletyka;athletics;1
+kajakarstwo;canoeing;1
+rzut dyskiem;discus;2
+rzut młotem;hammer throw;1
+skok wzwyż;high jump;1
+skok w dal;long jump;1
+wyścigi samochodowe;motor racing;1
+jazda na łyżworolkach;rollerblading;2
+wioślarstwo;rowing;4
+pchnięcie kulą;shot put;2
+biegi narciarskie;cross-country skiing;4
+dziesięciobój;decathlon;1
+lotniarstwo;hang-gliding;4
+bieg przez płotki;hurdles;4
+rzut oszczepem;javelin;2
+bieg z przeszkodami;obstacle race;2
+skok o tyczce;pole vault;2
+bieg sztafetowy;relay race;4
+nurkowanie z akwalungiem;scuba diving;4
+narciarstwo wodne;water-skiing;2
+czapka, czepek;cap;3
+wiosło;oar;3
+ochraniacze (np. na kolana, łokcie);pads;2
+krążek (hokejowy);puck;4
+siodło, siodełko roweru;saddle;2
+łyżwy, wrotki;skates;1
+strój piankowy do nurkowania;wetsuit;2
+sala bilardowa;pool table room;3
+kręgielnia;bowling alley;2
+ścianka wspinaczkowa;climbing wall;1
+lodowisko;ice rink;2
+stok;slope/piste;4
+tor, bieżnia;track;3
+wprowadzić do gry (np. zawodnika na boisko);bring on;4
+kibicować drużynie;cheer a team on;1
+być pierwszym/drugim na mecie;come in first/second;1
+wziąć udział w zawodach;enter a competition;1
+ostatni gwizdek;final whistle;2
+finalista;finalist;1
+eliminacje;heat;3
+Międzynarodowy Komitet Olimpijski;International Olympic Committee;2
+Igrzyska Olimpijskie;Olympic Games;4
+paraolimpijczyk;Paralympic athlete;3
+osoba/drużyna, która zdobyła drugie miejsce w zawodach;runner-up;4
+zbliżać się do mety;approach the line;2
+piłka wyszła na aut;the ball is out;1
+uczciwie (kogoś) pokonać;beat fair and square;1
+pokonać konkurencję;blow the competition away;2
+zawodnik broniący tytułu mistrzowskiego;defending champion;1
+dobrze zacząć;get a good start;4
+pół długości;half a length;3
+przerwa (w meczu);half time;2
+półmetek;halfway point;3
+zwycięstwo na własnym boisku / na wyjeździe;home/away win;2
+zmniejszać dystans;narrow the gap;4
+nieważny skok;no jump;3
+pole karne;penalty area;1
+wysuwać się do przodu;pull ahead;4
+zachować tytuł;retain a title;4
+drugi rok z rzędu;second year running;2
+widz;spectator;1
+sędzia (w tenisie);umpire;4
+wygrać o głowę;win by a head;2
+kajakarz/kajakarka;canoeist;2
+krykiecista/krykiecistka;cricketer;2
+golfista/golfistka;golfer;3
+wioślarz/wioślarka;rower;1
+rugbista;rugby player;1
+dogonić (kogoś);catch up with;2
+dać z siebie wszystko;do your best;4
+zremisować z;draw with;2
+utrzymywać formę;keep fit;3
+stracić okazję;miss a chance;2
+grać w drużynie;play for a team;3
+zakwalifikować się do;qualify for;2
+usunąć kogoś z boiska, wykluczyć kogoś z gry;send sb off;4
+wyjść na prowadzenie;take the lead;3
+zacząć uprawiać;take up;4
+rozpiąć (buty);undo (boots);2
+ćwiczyć (nie exercise);work out;4
+być w szczytowej formie;be in/on top form;4
+iść łeb w łeb;be neck and neck;2
+poradzić sobie z czymś;cope with;4
+odpaść z, wycofać się z;drop out of;4
+walczyć do końca;fight to the finish;2
+spróbować czegoś;give sth a go;4
+przejść na zawodowstwo;go professional;2
+potrącić poprzeczkę;hit the bar;2
+rozciągać mięśnie;stretch out your muscles;3
+dokładność, precyzja;accuracy;3
+stracić przytomność;black out;4
+koordynacja;coordination;1
+wpaść na;crash into;3
+determinacja, wytrwałość;determination;3
+gibkość, elastyczność;flexibility;3
+koncentracja;focus;2
+utrzymywać formę;keep in shape;2
+wytrzymałość;stamina;2
+odwaga;courage;2
+umiejętność podejmowania decyzji;decision-making skills;3
+przynosić więcej szkody niż pożytku;do more harm than good;3
+wytrwałość;endurance;2
+stawiać czoła trudnościom;face difficulties;4
+wyczerpujący trening;gruelling training;4
+nauczyć się współpracować;learn to collaborate;2
+wyczerpanie psychiczne;mental exhaustion;2
+przezwyciężyć strach;overcome fear;2
+pokonywać przeszkody;overcome obstacles;4
+przesadzić (z czymś);overdo;3
+stanowić zagrożenie;pose a danger;2
+żywotność, odporność;resilience;3
+cierpieć na wstrząs mózgu;suffer from a concussion;2
+przyjmować krytykę;take criticism;2
+przyznać się do łapówkarstwa;admit to bribery;4
+zostać czasowo zawieszonym w;be suspended from;2
+sport wyczynowy;competitive sport;4
+ostra konkurencja;fierce competition;2
+dyskryminacja ze względu na płeć;gender discrimination;2
+wahania nastroju;mood swings;2
+nielegalny interes;illegal deal;1
+ustawianie meczów;match-fixing;1
+różnica w wynagrodzeniu;pay gap;2
+doprowadzać ciało do kresu wytrzymałości;push your body to the limit;2
+zdegradowany do niższej ligi;relegated;4
+przeprowadzać kontrole (czegoś);run checks on sth;4
+sięgnąć po środki dopingowe;turn to performance-enhancing drugs;2
+wycofywać (się) z czegoś;withdraw from sth;4
+zwiększać liczbę członków;boost membership;2
+przynosić pieniądze/fundusze;bring in money/funds;3
+być gospodarzem wydarzenia;host an event;2
+wręczać medale;present the medals;4
+nadać rozgłos czemuś;put sth on the map;2
+biec sprawnie;run smoothly;3
+konkurować;face off;4
+spróbować;give it a try;1
+zakończyć karierę sportową;hang up one's boots;3
+bardzo szybko;in leaps and bounds;4
+bywać razem;knock about together;4
+rzucić coś;pack sth in;4
+zebrać żniwo;take a toll;3
+kolebka czegoś;birthplace of sth;4
+dzięki czemuś coś jest znane;one's claim to fame;4
+przejść do historii jako;go down in history as;2
+liczba miejsc siedzących;seating capacity;4
+obiekt sportowy;sporting venue;4
+wyrobić sobie pozycję zawodową;carve out a career;4
+zagwarantować przestrzeganie;ensure adherence;2
+podnieść status;raise the profile;2
+propagować przestrzeganie reguł gry;promote fair play;2
+stanąć na wysokości zadania;make the grade;4
+wyeliminować oszustwo;eliminate cheating;3
+wyzwolić się od szablonu;break the mould;4
+build up a lead;zbudować przewagę;4

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiszki - osoby</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="cyber-container">
+    <div class="cyber-header">
+      <h1 class="cyber-title">📚 <span class="neon-text">Wybierz osobę</span></h1>
+      <div class="cyber-line"></div>
+    </div>
+    <div class="cyber-grid">
+      {% for osoba in osoby %}
+        <button class="cyber-btn" onclick="window.location.href='/{{ osoba }}'">
+          <span class="btn-text">{{ osoba }}</span>
+          <span class="btn-glow"></span>
+        </button>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

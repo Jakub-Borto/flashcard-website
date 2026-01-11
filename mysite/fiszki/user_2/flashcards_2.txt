@@ -1,0 +1,233 @@
+znajomy/znajoma;acquaintance;4
+adoptowany/zaadoptować;adopted/adopt;4
+ciotka;aunt;4
+być wychowanym w;be raised in;4
+być z kimś spokrewnionym;be related to sb;4
+wychować;bring up;4
+szwagier;brother-in-law;4
+bliski przyjaciel/bliska przyjaciółka;close friend;4
+kolega/koleżanka z pracy;colleague;4
+kuzyn/kuzynka;cousin;4
+narzeczony/narzeczona;fiancé/fiancée;4
+przyjaźń;friendship;4
+pokolenie;generation;4
+zaręczyć się/wyjść za mąż/ożenić się;get engaged/married;4
+mieć dobre stosunki z;get on well with;4
+ojciec chrzestny/matka chrzestna;godfather/godmother;4
+plotki, plotkować, plotkarz/plotkara;gossip;4
+wnuczka;granddaughter;4
+dziadkowie;grandparents;4
+wnuk;grandson;4
+pradziadkowie;great-grandparents;4
+brat przyrodni/siostra przyrodnia;half brother/half sister;4
+przestawać (z kimś);hang around with;4
+mieć coś wspólnego z kimś/czymś;have sth in common with sb/sth;4
+mąż;husband;4
+utrzymywać kontakt z kimś/czymś;keep in touch with sb/sth;4
+podziwiać (kogoś);look up to;4
+zaprzyjaźnić się;make friends;4
+siostrzeniec, bratanek;nephew;4
+siostrzenica, bratanica;niece;4
+jedynak/jedynaczka;only child;4
+sierota;orphan;4
+emeryt/emerytka;pensioner;4
+oświadczyć się komuś;propose to sb;4
+związek, relacja;relationship;4
+krewny/krewna;relative;4
+w separacji;separated;4
+rodzeństwo;siblings;4
+samotny rodzic;single parent;4
+szwagierka;sister-in-law;4
+być podobnym (do kogoś z rodziny);take after;4
+bliźnięta;twins;4
+wuj, stryj;uncle;4
+żona;wife;4
+bardzo różnić się od siebie, być jak ogień i woda;be complete opposites;4
+najlepszy przyjaciel/najlepsza przyjaciółka;best mate;4
+daleki kuzyn/daleka kuzynka;distant cousin;4
+rodzina wielopokoleniowa;extended family;4
+przybrane dziecko;foster child;4
+rodzina zastępcza;foster family;4
+najbliższa rodzina;immediate family;4
+bratnia dusza;soulmate;4
+małżonek/małżonka;spouse;4
+ojczym/macocha;stepfather/stepmother;4
+brat przyrodni/siostra przyrodnia (brak wspólnych rodziców);stepbrother/stepsister;4
+pasierb/pasierbica;stepson/stepdaughter;4
+śmiertelny wróg;sworn enemy;4
+szczotkować włosy/zęby;brush your hair/teeth;4
+sprawdzać pocztę elektroniczną;check your email;4
+sprzątać ze stołu;clear the table;4
+zmywać naczynia;do the washing-up;4
+uporządkować coś;do sth out;4
+układać włosy;do your hair;4
+jeść na mieście;eat out;4
+najeść, napchać się czymś;fill up on sth;4
+odświeżyć się;freshen up;4
+pójść wcześniej spać;get an early night;4
+ubierać się;get dressed;4
+szykować się do szkoły;get ready for school;4
+wstawać;get up;4
+opłukać coś;give sth a rinse;4
+wracać do domu;go/come home;4
+kłaść się spać;go to bed;4
+uczyć się do późna;have a late night studying;4
+późno wstać, leżeć dłużej w łóżku;have a lie-in;4
+zagrzać;heat through;4
+nakrywać do stołu;lay the table;4
+położyć się;lie down;4
+ładować zmywarkę;load the dishwasher;4
+przyrządzić posiłek;make a meal;4
+ścielić łóżko;make your bed;4
+wynosić śmieci;put out the rubbish;4
+naładować baterie;recharge one's batteries;4
+nastawić budzik;set the alarm;4
+opowiadać historie;tell stories;4
+odprężyć się;unwind;4
+budzić się;wake up;4
+wykonywać obowiązki domowe;do chores;4
+rozwieszać pranie;hang out the washing;4
+pomagać;help out;4
+kupić;pick up;4
+nastawić pranie;put on a wash;4
+załatwiać sprawy;run errands;4
+moczyć się w wannie;soak in a bath;4
+gawędzić ze znajomymi;chat with friends;4
+relaksować się;chill out;4
+wpaść (do kogoś z wizytą);come round;4
+pójść na kurs;do a course;4
+rozwiązywać krzyżówkę;do a crossword;4
+uprawiać gimnastykę;do gymnastics;4
+rysować;do some drawing;4
+chodzić do klubów;go clubbing;4
+chodzić na ryby;go fishing;4
+biegać (rekreacyjnie);go jogging;4
+pójść do restauracji;go out for a meal;4
+jeździć na rolkach;go rollerblading;4
+pójść na łyżwy;go skating;4
+pójść na imprezę;go to a party;4
+chodzić na koncerty;go to music gigs;4
+chodzić na siłownię;go to the gym;4
+zorganizować imprezę/przyjęcie;have/organise/throw a party;4
+spędzić wieczór w domu/wybrać się gdzieś wieczorem;have a night in/out;4
+robić filmy za pomocą programów dostępnych w Internecie;make films online;4
+grać na instrumencie muzycznym;play a musical instrument;4
+grać w gry planszowe/karciane/komputerowe;play board/card/computer games;4
+czytać blogi;read blogs;4
+spotykać się ze znajomymi;see/meet friends;4
+spędzać czas na robieniu czegoś;spend time doing sth;4
+robić zdjęcia;take photographs;4
+pójść z psem na spacer;take the dog for a walk;4
+zająć się nowym hobby;take up a hobby;4
+zobaczyć wystawę sztuki;visit an art exhibition;4
+oglądać serial w Internecie;watch a series online;4
+rocznica;anniversary;4
+drużba;best man;4
+bukiet;bouquet;4
+druhna;bridesmaid;4
+karnawał;carnival;4
+obchodzić/uroczystość;celebrate/celebration;4
+chrzciny;christening;4
+Boże Narodzenie;Christmas;4
+kościół;church;4
+gratulować;congratulate;4
+konkurs;contest/competition;4
+zwyczaj;custom;4
+przebrać się za (coś lub kogoś);dress up as;4
+Wielkanoc;Easter;4
+bal przebierańców;fancy dress party;4
+pogrzeb;funeral;4
+grób;grave;4
+kartka z życzeniami;greetings card;4
+Nowy Rok;New Year's Day;4
+ksiądz;priest;4
+przyjęcie;reception;4
+pierścionek, obrączka;ring;4
+nabożeństwo, ceremonia;service;4
+walentynki;Valentine's Day;4
+ślub;wedding;4
+opakować/odpakować prezent;wrap/unwrap a present;4
+niespodzianka, prezent z okazji urodzin;birthday treat;4
+panna młoda;bride;4
+parada karnawałowa;carnival parade;4
+wysoka odprawa;golden handshake;4
+pan młody;groom;4
+wieczór panieński/kawalerski;hen/stag party;4
+opłakiwać;mourn;4
+impreza uliczna;street party;4
+połączyć się węzłem małżeńskim;tie the knot;4
+wieniec z kwiatów;wreath;4
+kłócić się; kłótnia,argue/argument;4
+zachowywać się, zachowanie;behave/behaviour;4
+zerwać z kimś;break up with sb;4
+nie zgadzać się, różnica zdań, sprzeczka;disagree/disagreement;4
+dyscyplina;discipline;4
+zakończyć związek;end a relationship;4
+pokłócić się z kimś;fall out with sb;4
+rozwieść się;get a divorce;4
+wrócić do siebie;get back together;4
+dać (dziecku) szlaban na wychodzenie z domu;ground;4
+pokłócić się z kimś;have a fight/a row with sb;4
+zawieść kogoś;let sb down;4
+patrzeć na kogoś z góry, gardzić kimś;look down on sb;4
+pogodzić się z kimś;make up with sb;4
+zamieszkać z kimś;move in with sb;4
+obrazić kogoś;offend sb;4
+buntować się, bunt;rebel/rebellion;4
+szanować innych ludzi;respect other people;4
+odpowiedzialny;responsible;4
+uciec z domu;run away from home;4
+rozstać się;split up;4
+trzymać się zasad;stick to the rules;4
+wziąć czyjąś stronę;take someone's side;4
+odejść od kogoś;walk out on sb;4
+wbrew zdrowemu rozsądkowi;against your better judgement;4
+nadawać na tych samych falach;be on the same wavelength;4
+zdradzić kogoś;cheat on sb;4
+rozejść się;drift apart;4
+rzucić kogoś;dump sb;4
+wartości rodzinne;family values;4
+koleżeństwo, braterstwo;fellowship;4
+przypaść sobie do serca;get on like a house on fire;4
+wytłumaczyć swój punkt widzenia;get your point across;4
+nie odzywać się do kogoś;give someone the silent treatment;4
+bardzo się zdenerwować;go ballistic;4
+ciągle mówić o kimś/czymś;go on about sb/sth;4
+zauroczyć się (w) kimś;have a crush on sb;4
+mieć różne zdania;have a difference of opinion;4
+mieć romans;have an affair;4
+zażarta kłótnia;heated argument;4
+wyznaczać (podstawowe) zasady;lay down some (ground) rules;4
+testować granice;push the limits;4
+kłócić się z kimś;quarrel with sb;4
+stawiać granice;set boundaries;4
+wstrzymać wypłatę kieszonkowego;stop an allowance;4
+brać kogoś/coś za pewnik;take sb/sth for granted;4
+przedyskutować sprawę;talk things through;4
+zbesztać kogoś, zrugać;tell someone off;4
+wykorzystywać kogoś;take advantage of sb;4
+troszczyć się o kogoś;take care of sb;4
+nie śpieszyć się;take one's time;4
+wziąć w czymś udział;take part in sth;4
+mieć miejsce;take place;4
+wyładowywać na kimś negatywne emocje;take sth out on sb;4
+pragnąć;crave;4
+korzystać (np. z prawa do czegoś);exercise;4
+nauczyć się czegoś, zrozumieć coś;get the hang of sth;4
+umiejętność oceny wydarzeń z perspektywy czasu;hindsight;4
+krzywa uczenia się;learning curve;4
+uzasadnione zmartwienie;legitimate worry;4
+stracić coś z oczu;lose sight of sth;4
+wyznaczać godziny powrotu do domu;set curfews;4
+trudne zadanie;tall order;4
+przygnębić, załamać;get sb down;4
+poradzić sobie, uporać się;handle;4
+na krawędzi;on the rocks;4
+cierpieć w milczeniu;suffer in silence;4
+wyładować (o emocjach);vent sth;4
+zdenerwowany, nakręcony;wound up;4
+graniczyć z czymś;border on sth;4
+przestać, skończyć;cease;4
+unikać;shy away;4
+wkroczyć, podjąć działania;step up;4
+być świadkiem;witness;4

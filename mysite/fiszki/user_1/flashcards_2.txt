@@ -1,0 +1,270 @@
+unikać ćwiczeń;avoid exercising;4
+być w dobrej formie;be in good shape;4
+ograniczyć spożywanie niezdrowego jedzenia;cut down on junk food;4
+regularnie się badać;do regular medical tests;4
+jeść tłusto;eat fatty food;4
+stosować się do zaleceń lekarza;follow your doctor's advice;4
+pójść wcześniej/późno spać;have an early/late night;4
+utrzymywać dobrą formę;keep fit;4
+zredukować stres;reduce stress;4
+dbać o siebie;take care of oneself;4
+szczepienie;vaccination;4
+suplementy witaminowe;vitamin supplements;4
+ćwiczyć;work out;4
+przewlekły stres;chronic stress;4
+wykształcić złe nawyki;develop bad habits;4
+siedzący tryb życia;sedentary lifestyle;4
+mieć poważny, negatywny wpływ na coś;severely affect sth;4
+intensywne ćwiczenia;vigorous exercise;4
+mieć na coś alergię;be allergic to sth;4
+mieć zawroty głowy;feel dizzy;4
+być doskonałego zdrowia;be in perfect health;4
+być chorym, wymiotować;be sick;4
+być zdenerwowanym, zestresowanym;feel anxious;4
+mieć mdłości;feel sick;4
+być spiętym;feel tense;4
+źle się czuć;feel unwell;4
+dojść do siebie po chorobie;get over an illness;4
+wracać do zdrowia;get well;4
+wyzdrowieć, dojść do siebie;recover from;4
+być obolałym;ache all over;4
+być zdrów jak ryba;be as fit as a fiddle;4
+zdezorientowany;bewildered;4
+kiepsko się czuć;feel off-colour;4
+źle się czuć;feel under the weather;4
+roztargniony;forgetful;4
+wydobrzeć;heal;4
+rozbity po długiej podróży lotniczej przez kilka stref czasowych;jet-lagged;4
+zasapany;puffed out;4
+wyczerpany;shattered;4
+kostka;ankle;4
+plecy;back;4
+kości;bones;4
+pupa;bottom;4
+mózg;brain;4
+policzek;cheek;4
+klatka piersiowa;chest;4
+podbródek, broda;chin;4
+łokieć;elbow;4
+brew;eyebrow;4
+rzęsa;eyelash;4
+powieka;eyelid;4
+czoło;forehead;4
+biodro;hip;4
+kolano;knee;4
+wargi, usta;lips;4
+mięśnie;muscles;4
+szyja;neck;4
+bark;shoulder;4
+skóra;skin;4
+kręgosłup;spine;4
+brzuch, żołądek;stomach;4
+udo;thigh;4
+gardło;throat;4
+kciuk;thumb;4
+palec (u nogi);toe;4
+język;tongue;4
+talia;waist;4
+nadgarstek;wrist;4
+dziąsło;gum;4
+staw;joint;4
+nerka;kidney;4
+knykieć;knuckle;4
+wątroba;liver;4
+płuco;lung;4
+dłoń;palm;4
+żebra;ribs;4
+podeszwa;sole;4
+żyła;vein;4
+ból pleców;backache;4
+podbite oko;black eye;4
+pęcherz (odcisk);blister;4
+oparzenie;burn;4
+przeziębić się;catch a cold;4
+zachorować na coś;come down with sth;4
+choroba (przewlekła), stan;condition;4
+kasłać, kaszel;cough;4
+skaleczyć się w palec;cut your finger;4
+choroba;disease/illness;4
+ból ucha;earache;4
+zemdleć;faint;4
+zatrucie pokarmowe;food poisoning;4
+katar sienny;hay fever;4
+ból głowy;headache;4
+wysoka temperatura;high temperature;4
+infekcja;infection;4
+grypa;influenza (flu);4
+migrena;migraine;4
+krwotok z nosa;nosebleed;4
+zarazić się, złapać;pick up;4
+katar;runny nose;4
+dygotać, drżeć;shiver;4
+kichnąć;sneeze;4
+ból gardła;sore throat;4
+ból brzucha;stomach ache;4
+spuchnięty;swollen;4
+zwymiotować;throw up/vomit;4
+ból zęba;toothache;4
+silne napięcie;acute tension;4
+być posiniaczonym;be black and blue;4
+siniak;bruise;4
+guz;bump;4
+przewlekły ból;chronic distress;4
+dostać wysypki;come out in a rash;4
+biegunka;diarrhoea;4
+widzieć nieostro;have blurred vision;4
+drażliwość;irritability;4
+odra;measles;4
+świnka;mumps;4
+mdłości;nausea;4
+załamanie nerwowe;nervous breakdown;4
+gonitwa myśli;racing thoughts;4
+czerwone i swędzące oczy;red and itchy eyes;4
+rozsadzający ból głowy;splitting headache;4
+sztywność;stiffness;4
+naderwane więzadło;torn ligament;4
+drżeć;tremble;4
+(nie)uleczalny;(in)curable;4
+antybiotyk;antibiotic;4
+zostać zdiagnozowanym (na);be diagnosed with;4
+umówić się na wizytę (u lekarza);book an appointment (with a doctor);4
+klinika;clinic;4
+zasięgnąć porady lekarza;consult a doctor;4
+syrop na kaszel;cough mixture;4
+wyleczyć, lekarstwo, metoda leczenia;cure;4
+badanie;examination;4
+krople do oczu;eye drops;4
+poddać się operacji;have an operation;4
+mieć prześwietlenie;have an X-ray;4
+przychodnia;health centre;4
+wizyta domowa;home visit;4
+zakażony;infected;4
+zastrzyk;injection;4
+porady medyczne;medical advice;4
+badanie lekarskie;medical check-up;4
+lekarstwo;medicine;4
+krople do nosa;nose drops;4
+maść;ointment;4
+sala operacyjna;operating theatre;4
+środek przeciwbólowy;painkiller;4
+zarazić (kogoś);pass on to;4
+założyć gips na rękę/nogę;put your arm/leg in plaster;4
+zmniejszyć opuchliznę;reduce the swelling;4
+oszczędzać kończynę;rest your limb;4
+złagodzić ból;relieve the pain;4
+wcierać krem;rub in cream;4
+drapać;scratch;4
+pójść do lekarza;see a doctor;4
+gabinet lekarski, operacja chirurgiczna;surgery;4
+zespół, syndrom;syndrome;4
+zmierzyć ciśnienie krwi;take one's blood pressure;4
+zmierzyć temperaturę;take one's temperature;4
+zbadać słuch;test your hearing;4
+leczyć kogoś na coś;treat sb for sth;4
+leczenie, zabieg;treatment;4
+oddział szpitalny;ward;4
+wypisać receptę;write a prescription;4
+zdobyć odporność;acquire immunity;4
+śmiertelna choroba;fatal / lethal disease;4
+globalna pandemia;global pandemic;4
+pozostać w izolacji;go into isolation;4
+znaleźć się na liście oczekujących;go on a waiting list;4
+nałożyć kwarantannę/restrykcje;impose quarantine/restrictions;4
+tabletka do ssania;lozenge;4
+zachowywać dystans;maintain your distance;4
+wrócić do zdrowia;make a good recovery;4
+wybuch epidemii;outbreak of an epidemic;4
+pozostawać w śpiączce;remain in a coma;4
+podjąć środki zapobiegawcze;take preventive measures;4
+mieć pozytywny wynik testu na coś;test positive for sth;4
+trądzik;acne;4
+nowotwór piersi/prostaty;breast/prostate cancer;4
+choroba sercowo-naczyniowa;cardiovascular disease;4
+radzić sobie ze stresem;cope with stress;4
+cukrzyca;diabetes;4
+spowodować pogorszenie problemu;exacerbate the problem;4
+wysoki cholesterol;high cholesterol;4
+bezsenność;insomnia;4
+brak aktywności fizycznej;lack of physical activity;4
+guz;lump;4
+nadwaga;obesity;4
+zapobiegać nadciśnieniu;prevent hypertension;4
+tabletki nasenne;sleeping pills;4
+problemy żołądkowe;stomach upsets;4
+niewidomy;blind;4
+opiekun/opiekunka osoby niepełnosprawnej;carer;4
+niesłyszący;deaf;4
+niemy;dumb;4
+pies przewodnik;guide dog;4
+stracić wzrok/słuch;lose your sight/hearing;4
+laska;walking stick;4
+język migowy;sign language;4
+wózek inwalidzki;wheelchair;4
+transport dostępny dla osób niepełnosprawnych;accessible transport system;4
+aparat słuchowy;hearing aid;4
+niedowidzący;partially sighted;4
+logopeda;speech therapist;4
+jąkać się;stammer;4
+alkoholik/alkoholiczka;alcoholic;4
+kofeina;caffeine;4
+pomoc psychologiczna;counselling;4
+leki, narkotyki;drugs;4
+hazard;gambling;4
+granie w gry komputerowe;gaming;4
+uzależnić się/być uzależnionym od;get/be addicted to;4
+leki na receptę;prescription drugs;4
+palenie;smoking;4
+terapeuta;therapist;4
+nie brać narkotyków;be clean;4
+pokonać depresję;beat one's depression;4
+maraton filmowy/telewizyjny;binge-watching;4
+rzucić narkotyki;come off drugs;4
+zatracić się w nałogu;get hopelessly hooked on;4
+ośrodek leczenia uzależnień;rehab centre;4
+przedawkować;take an overdose;4
+(nie)przytomny;(un)conscious;4
+karetka pogotowia;ambulance;4
+zostać przyjętym do szpitala;be admitted to hospital;4
+być w stanie krytycznym;be in a critical condition;4
+krwawić;bleed;4
+złamać rękę/nogę;break an arm/a leg;4
+ofiara;casualty;4
+zakrztusić się;choke;4
+pogarszać się;deteriorate;4
+szpitalny oddział ratunkowy;emergency unit;4
+mieć zawał serca;have a heart attack;4
+uraz, kontuzja;injury;4
+ratownik medyczny/ratowniczka medyczna;paramedic;4
+zakładać bandaż;tie a bandage;4
+ranny;wounded;4
+zablokowane drogi oddechowe;blocked airways;4
+opatrzyć skaleczenie/ranę;dress a cut/wound;4
+szwy;stitches;4
+nosze;stretcher;4
+udar mózgu;stroke;4
+odnieść niewielkie obrażenia;suffer minor injuries;4
+traumatyczne doświadczenie;traumatising experience;4
+znaki ostrzegawcze;warning signs;4
+pamiętać o czymś, mieć coś w pamięci;bear sth in mind;4
+mieć umysł zaprzątnięty czymś;have sth on one's mind;4
+zdecydować się na coś;make up one's mind;4
+uwaga na...;mind;4
+odwrócić myśli/uwagę kogoś od czegoś;take sb's mind off sth;4
+kamień (spadł mi) z serca!;that's a weight off my mind;4
+z grubsza coś wiedzieć, w przybliżeniu;have a rough idea of sth;4
+mnóstwo czegoś;host of sth;4
+główny czynnik;major factor;4
+stać się sławnym;make headlines;4
+przedsmak;taster;4
+zdrów jak ryba;as fit as a fiddle;4
+być okazem zdrowia;be a picture of health;4
+być cieniem dawnego siebie;be a shadow of one's former self;4
+to przekracza czyjeś możliwości;be not up to sth;4
+postawić kogoś na nogi;get sb back on their feet;4
+sprzyjający czemuś;conducive to sth;4
+zarazić się chorobą/wirusem;contract a disease/a virus;4
+długotrwały efekt;lingering effect;4
+skrupulatne zapisy;meticulous records;4
+poczucie czegoś;sense of sth;4
+odrobina/dużo czegoś;small/large measure of sth;4
+skutki uboczne;side effects;4

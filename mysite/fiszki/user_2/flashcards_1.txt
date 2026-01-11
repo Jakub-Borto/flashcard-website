@@ -1,0 +1,268 @@
+wiśnia;cherry;4
+winogrono;grape;4
+brzoskwinia;peach;4
+gruszka;pear;4
+ananas;pineapple;4
+malina;raspberry;4
+arbuz;watermelon;4
+morela;apricot;4
+czarna porzeczka;blackcurrant;4
+borówka;blueberry;4
+żurawina;cranberry;4
+agrest;gooseberry;4
+mandarynka;tangerine;4
+brokuły;broccoli;4
+kapusta;cabbage;4
+marchewka;carrot;4
+kalafior;cauliflower;4
+seler;celery;4
+ogórek;cucumber;4
+czosnek;garlic;4
+zielony groszek;green peas;4
+sałata;lettuce;4
+grzyby;mushroom;4
+oliwka;olive;4
+rzodkiewka;radish;4
+kukurydza;sweetcorn;4
+pomidor;tomato;4
+szparagi;asparagus;4
+bakłażan;aubergine;4
+burak;beetroot;4
+szczypiorek;chives;4
+cukinia;courgette;4
+imbir;ginger;4
+chrzan;horseradish;4
+jarmuż;kale;4
+por;leek;4
+zielona pietruszka;parsley;4
+tymianek;thyme;4
+boczek;bacon;4
+wołowina;beef;4
+dorsz;cod;4
+szynka;ham;4
+śledź;herring;4
+homar;lobster;4
+wieprzowina;pork;4
+drób;poultry;4
+krewetki;prawns;4
+łosoś;salmon;4
+tuńczyk;tuna;4
+indyk;turkey;4
+flądra;flounder;4
+dziczyzna;game;4
+makrela;mackerel;4
+ostryga;oyster;4
+cielęcina;veal;4
+śmietana;cream;4
+masło;butter;4
+twarożek;cottage cheese;4
+margaryna;margarine;4
+jogurt;yoghurt;4
+płatki śniadaniowe;cereal;4
+płatki kukurydziane;cornflakes;4
+mąka;flour;4
+makaron;pasta;4
+ryż;rice;4
+bułka;roll;4
+ciasto z jabłkami;apple pie;4
+chlebek bananowy;banana bread;4
+sernik;cheesecake;4
+ciasto owocowe;crumble;4
+dżem;jam;4
+deser;dessert;4
+naleśnik;pancake;4
+sos do pieczeni;gravy;4
+zioła;herbs;4
+dżem z owoców;marmalade;4
+majonez;mayonnaise;4
+sos sałatkowy;salad dressing;4
+sos;sauce;4
+przyprawa;seasoning;4
+przyprawy korzenne;spices;4
+ocet;vinegar;4
+gotowany;boiled;4
+chrupki;crunchy;4
+suchy;dry;4
+świeży;fresh;4
+zamrożony;frozen;4
+domowej roboty;home-made;4
+soczysty;juicy;4
+surowy;raw;4
+czerstwy;stale;4
+chrupiący;crusty;4
+pełnotłusty;full-fat;4
+mielony;ground;4
+rozpuszczalny;instant;4
+średnio wysmażony;medium;4
+ugotowany w wodzie bez skorupki;poached;4
+w proszku;powdered;4
+krwisty;rare;4
+wytrawny;savoury;4
+kupiony w sklepie;shop-bought;4
+odtłuszczony;skimmed;4
+dobrze wysmażony;well-done;4
+tabliczka czekolady;bar of chocolate;4
+pojemnik;container;4
+bochenek chleba;loaf of bread;4
+puszka pomidorów;tin of tomatoes;4
+dzbanek mleka;jug of milk;4
+kawałek sera;lump of cheese;4
+szczypta soli;pinch of salt;4
+dzbanek herbaty;pot of tea;4
+plaster boczku;rasher of bacon;4
+łyżeczka cukru;spoonful of sugar;4
+tubka koncentratu pomidorowego;tube of tomato paste;4
+grill;barbecue;4
+późne śniadanie;brunch;4
+drugie śniadanie;packed lunch;4
+kolacja;supper;4
+podwieczorek;tea;4
+dodać;add;4
+upiec;bake;4
+ubić;beat;4
+zagotować;boil;4
+przypalić;burn;4
+posiekać;chop;4
+gotować;cook;4
+schłodzić;cool;4
+postępować według przepisu;follow a recipe;4
+zamrozić;freeze;4
+usmażyć;fry;4
+zetrzeć na tarce;grate;4
+upiec na grillu;grill;4
+składnik;ingredient;4
+roztopić;melt;4
+obrać;peel;4
+wlać;pour;4
+postawić na małym ogniu;put on a low heat;4
+piec mięso;roast;4
+skończyć się;run out of sth;4
+podawać;serve;4
+pokroić w plastry;slice;4
+posypać/pokropić;sprinkle;4
+wycisnąć;squeeze;4
+ugotować na parze;steam;4
+zamieszać;stir;4
+zużyć;use up;4
+żuć;chew;4
+połknąć;gulp;4
+poliżać;lick;4
+przejeść się;overeat;4
+opłukać;rinse;4
+sączyć;sip;4
+dusić na wolnym ogniu;stew;4
+połknąć;swallow;4
+miska;bowl;4
+widelec;fork;4
+patelnia;frying pan;4
+szklanka;glass;4
+czajnik;kettle;4
+serwetka;napkin;4
+nóż;knife;4
+talerz;plate;4
+rondel;pot;4
+łyżka;spoon;4
+słomka;straw;4
+łyżeczka;teaspoon;4
+deska do krojenia;chopping board;4
+korkociąg;corkscrew;4
+naczynia;dishes;4
+sztućce;cutlery;4
+sitko;sieve;4
+gorzki;bitter;4
+wysmienity;delicious;4
+niesmaczny;disgusting;4
+jadalny;edible;4
+niejadalny;inedible;4
+łagodny;mild;4
+rozgotowany;overcooked;4
+słony;salty;4
+ostry;spicy;4
+kwaśny;sour;4
+bez smaku;tasteless;4
+smaczny;tasty;4
+nieugotowany;undercooked;4
+apetyczny;appetising;4
+mdły;bland;4
+gumowaty;chewy;4
+grudkowaty;lumpy;4
+odpychający;off-putting;4
+okropny;revolting;4
+przepyszny;scrumptious;4
+twardy;tough;4
+dodatki do żywności;additives;4
+zrównoważona dieta;balanced diet;4
+intensywna dieta odchudzająca;crash diet;4
+ograniczyć;cut down on;4
+tuczący;fattening;4
+stosować dietę;follow a diet;4
+niezdrowe jedzenie;junk food;4
+schudnąć;lose weight;4
+wartość odżywcza;nutritional value;4
+przytyć;put on weight;4
+dania gotowe;ready meals;4
+zrównoważona dieta;well-balanced diet;4
+dzienna dawka;daily intake;4
+bogate w błonnik;high-fibre;4
+pożywny;nutritious;4
+wytyczne dotyczące aktywności;physical activity guidelines;4
+żywność przetworzona;processed food;4
+tłuszcze nasycone;saturated fats;4
+razowy;wholemeal;4
+rachunek;bill;4
+zarezerwować stolik;book a table;4
+kawiarnia;cafeteria;4
+znany kucharz;celebrity chef;4
+kuchnia;cuisine;4
+danie;dish;4
+restauracja szybkiej obsługi;fast food restaurant;4
+zostawić napiwek;leave a tip;4
+danie główne;main course;4
+zamówić posiłek;order a meal;4
+recenzja;review;4
+samoobsługa;self-service;4
+zupa;soup;4
+przystawka;starter;4
+na wynos;takeaway;4
+krytyk kulinarny;food critic;4
+przysmaki;delicacies;4
+dodatek do dania głównego;side dish;4
+danie popisowe;signature dish;4
+anoreksja;anorexia;4
+zespół napadowego objadania się;binge eating disorder;4
+bulimia;bulimia;4
+kompulsywny;compulsive;4
+zaburzony obraz własnego ciała;distorted body image;4
+mieć obsesję na czymś;fixated on sth;4
+zagraża życiu;life-threatening;4
+niedożywienie;malnutrition;4
+obsesyjnie;obsessively;4
+ortoreksja;orthorexia;4
+nadmiernie zaniepokojony;overly concerned;4
+ograniczony schemat żywienia;restrictive eating patterns;4
+bazować na czymś;base on sth;4
+radość z czegoś;enjoyment of sth;4
+eksperymentować z czymś;experiment with sth;4
+eksploracja czegoś;exploration of sth;4
+wpływ na coś;influence on sth;4
+zdać komuś relację;report back to sb;4
+o krok za daleko;a step too far;4
+jedzony w nadmiarze;eaten to excess;4
+ingerencja w coś;encroachment on sth;4
+punkt gastronomiczny;food outlet;4
+dla naszego dobra;for our own good;4
+widoczna różnica;marked difference;4
+oparzyć sobie język;burn one's tongue;4
+ślinić się na myśl o czymś;drool at the thought of sth;4
+napełnić kogoś;fill sb up;4
+zostawić posmak;leave an aftertaste;4
+rozpływać się w ustach;melt in your mouth;4
+oblać coś czymś;spill sth down sth;4
+wymachiwać czymś;brandish sth;4
+sprzątnąć ze stołu;clear the table;4
+drobny;dainty;4
+krzywić się z powodu czegoś;frown upon sth;4
+nakryć do stołu;lay the table;4
+przyciąć coś;trim sth;4
+zupełnie odmienny;wholly different;4
+swoimi własnymi rękami;with your own fair hands;4
